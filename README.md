@@ -1,5 +1,7 @@
 # andCardsQR - First Prototype
 
+<img src="img/logo.svg" width=200 align="right">
+
 This prototype was created during the Design Thinking course at the Ukrainian Catholic University.
 
 ## Design Thinking workflow
