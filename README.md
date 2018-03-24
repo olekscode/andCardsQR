@@ -6,29 +6,41 @@ This prototype was created during the Design Thinking course at the Ukrainian Ca
 
 ![](img/designthinking.jpeg)
 
-### Empatize
+### Step 1: Empatize
 
-### Define
+In order to understand the deep needs of people who attend conferences, we have interviewed 10 people, including
+* 1 professor of history
+* 1 professor of mathematics
+* 1 senior software developer
+* 1 student of Lviv Business School
+* 6 Computer Science bachelor students
+
+We were asking them various questions, trying to gain insight about both their good and bad experiences. The information we acquired was very unstructured, but we could already see some patterns in how people with such different backgrounds behave, what drives them, and what causes problems.
+
+Of course, a sample of 10 people from one university is not enough for some generalized statistical inference, but it's enough to give us the idea of what problems people face when attending conferences.
+
+### Step 2: Define
+
+Once we had enough information to process it was time to mine it for useful insights that would allow us to identify problems those people are facing on conferences and clearly define one specific problem we will be trying to solve
 
 ![](img/define.jpg)
 
-### Ideate
+### Step 3: Ideate
+
+On this step we started brainstorming the ideas. It's truly impressive how many ideas can four people generate in 10 minutes
 
 ![](img/ideate.jpg)
 ![](img/ideate-order.jpg)
 
-### Prototype
+### Step 4: Prototype
 https://youtu.be/GtwK_A4dS3s
 
 ![](img/prototype-card.jpg)
 ![](img/prototype.jpg)
 
-### Test
+### Step 5: Test
 
 ![](img/test.jpg)
-
-## Conference badges with QR
-Prototyping the idea of attendee conference badges with QR for andCard
 
 ## Team
 
