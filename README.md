@@ -4,6 +4,8 @@ This prototype was created during the Design Thinking course at the Ukrainian Ca
 
 ## Design Thinking workflow
 
+![](img/designthinking.jpeg)
+
 ### Empatize
 
 ### Define
