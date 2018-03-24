@@ -27,9 +27,16 @@ Once we had enough information to process it was time to mine it for useful insi
 
 ### Step 3: Ideate
 
-On this step we started brainstorming the ideas. It's truly impressive how many ideas can four people generate in 10 minutes
+On this step we started brainstorming the ideas. It's truly impressive how many ideas can four people generate in 20 minutes.  Most ideas were just crazy and required things like teleportation, space travel, or artificial intelligence. But we were going for quantity, not quality, and building on top of these silly ideas we came up with really good ones. 
 
 ![](img/ideate.jpg)
+
+After having generated over 100 ideas we went on to structure and organize them. We started by separating three clusters:
+
+* **IT solutions**: creating an app or a website
+* **Organizational solutions**: long coffee breaks, tour guides etc.
+* **"Magic"**: conference in open space, reading minds, becoming part of collective superintelligence etc.
+
 ![](img/ideate-order.jpg)
 
 ### Step 4: Prototype
