@@ -8,12 +8,22 @@ This prototype was created during the Design Thinking course at the Ukrainian Ca
 
 ### Define
 
+![](img/define.jpg)
+
 ### Ideate
+
+![](img/ideate.jpg)
+![](img/ideate-order.jpg)
 
 ### Prototype
 https://youtu.be/GtwK_A4dS3s
 
+![](img/prototype-card.jpg)
+![](img/prototype.jpg)
+
 ### Test
+
+![](img/test.jpg)
 
 ## Conference badges with QR
 Prototyping the idea of attendee conference badges with QR for andCard
