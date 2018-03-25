@@ -1,8 +1,8 @@
 # andCardsQR
 
-We demonstrate the first prototype of our solution to the problem of ineffective networking during large and medium-sized conferences. You can watch the video to see how it works: https://youtu.be/GtwK_A4dS3s.
-
 <img src="img/apps.jpg" width=170 align="right">
+
+We demonstrate the first prototype of our solution to the problem of ineffective networking during large and medium-sized conferences. You can watch the video to see how it works: https://youtu.be/GtwK_A4dS3s.
 
 The prototype was created during the Design Thinking course taught by Oleksandr Akymenko at Data Science Master program of Ukrainian Catholic University. The course was mostly practical. We were divided into 6 groups of 4 people, and learned design thinking while working on an actual business case provided by a partner company.
 
