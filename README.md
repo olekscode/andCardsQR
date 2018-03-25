@@ -1,6 +1,6 @@
 # andCardsQR
 
-<img src="img/apps.jpg" width=170 align="right">
+<img src="img/apps.jpg" width=200 align="right">
 
 We demonstrate the first prototype of our solution to the problem of ineffective networking during large and medium-sized conferences. You can watch the video to see how it works: https://youtu.be/GtwK_A4dS3s.
 
