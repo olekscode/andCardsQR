@@ -50,11 +50,21 @@ After having generated over 100 ideas we went on to structure and organize them.
 
 ![](img/ideate-order.jpg)
 
-As a result, there was one idea that was both impactful and easy to implement. Since andDesign has an app that allows users to thare their business cards, **we decided to add QR codes to attendee conference badges that could be scanned by that app and allow people who have met each other on a conference share digital business cards with a single click of button.**
+As a result, there was one idea that was both impactful and easy to implement. Since andCards has an app that allows users to thare their business cards, **we decided to add QR codes to attendee conference badges that could be scanned by that app and allow people who have met each other on a conference share digital business cards with a single click of button.**
 
 ### Step 4: Prototype
 
+As a first prototype we have created this repository with the drafts of our digital business cards as simple HTML pages with links and information. We printed conference badges with QR codes that link to these cards and created a simple Android app with a single button that reads QR and immediately shows a business card.
+
 ![](img/prototype-card.jpg)
+
+Based on our idea, it should work like this:
+
+1. In order to buy a ticket to a conference, you must fill a standard registration form (name, email etc.). If you are already a user of andCards, you can simply log in, and all the necessary information will be taken from your account (your digital business card). If you have never used andCards before, a temporary business card will be automatically generated for you from the data you fill into the registration form.
+2. On the day of the conference you receive a badge with your name and QR code that links to your business card.
+3. As you make new connections you can ask them to share business cards. You take out your phone and scan the code on the badge of your colleague. That's it. Once the codewas scanned on one device, your digital business cards are exchanged and each one of you will have the contacts of the other in his personal wallet.
+4. Once the conference has ended, you come home and receive the letter with the list of all the people you have met (you can also find them in your digital wallet) and some recommendations on how to stay in touch.
+
 ![](img/prototype.jpg)
 
 ### Step 5: Test
