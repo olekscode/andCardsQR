@@ -58,7 +58,7 @@ As a first prototype we have created this repository with the drafts of our digi
 
 ![](img/prototype-card.jpg)
 
-Based on our idea, it should work like this:
+**The process of exchanging digital business cards:**
 
 1. In order to buy a ticket to a conference, you must fill a standard registration form (name, email etc.). If you are already a user of andCards, you can simply log in, and all the necessary information will be taken from your account (your digital business card). If you have never used andCards before, a temporary business card will be automatically generated for you from the data you fill into the registration form.
 2. On the day of the conference you receive a badge with your name and QR code that links to your business card.
@@ -75,8 +75,14 @@ Now that we had a simple working prototype, it was time to let the potential use
 
 Though everyone liked our solution, there were several concerns that helped us understand the problems we didn't see before. Most important ones were these:
 
-1. Security issues. On a big conference you never know who can sca your QR code in a big crowd. Of course, you will get his business card as well (and may even revoke that exchange later) but he will already see your contacts.
-2. Not everyone is technology-friendly. Some people don't have smartphones, don't have andCards app installed, and don't want to use QR readers.
+1. Security issues. On a big conference you never know who can scan your QR code in a big crowd. Of course, you will get his business card as well (and may even revoke that exchange later) but he will already see your contacts.
+2. Not everyone is technology-friendly. Some people don't have smartphones, don't have andCards app installed, and don't want to use QR readers. They prefer traditional business cards.
+
+### Iterate
+
+During testing phase we have identified some problems with our solution. We had to go back to the step of ideation and discuss how to improve our prototype. To solve the security issue we decided to allow people who don't want to share their information to request a badge without QR by checking that option in a registration form. Also we propose to include an option of scanning a traditional business card into an app.
+
+![](img/iterate.jpg)
 
 ## Team
 
