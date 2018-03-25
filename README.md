@@ -69,7 +69,14 @@ Based on our idea, it should work like this:
 
 ### Step 5: Test
 
+Now that we had a simple working prototype, it was time to let the potential users test it and gather thir feedback. We invited seven students from different majors and universities, showed them our prototypes, let them wear the badges and scan the barcodes. Once they've had a hands-on experience with our product, we were asking them different questions. What was good? What was bad? Was it easy to exchange the business cards? Did it feel awkward? How would you improve it?
+
 ![](img/test.jpg)
+
+Though everyone liked our solution, there were several concerns that helped us understand the problems we didn't see before. Most important ones were these:
+
+1. Security issues. On a big conference you never know who can sca your QR code in a big crowd. Of course, you will get his business card as well (and may even revoke that exchange later) but he will already see your contacts.
+2. Not everyone is technology-friendly. Some people don't have smartphones, don't have andCards app installed, and don't want to use QR readers.
 
 ## Team
 
