@@ -13,7 +13,13 @@ The prototype was created during the Design Thinking course taught by Oleksandr 
 >
 > -- <cite>Tim Brown, CEO of IDEO</cite>
 
+Design thinking process can be divided into five steps
+
 ![](img/designthinking.jpeg)
+
+It starts with identifying the needs of people and clearly articulating the problem that will be solved. During these first two steps we don't think about solutions. We only try to understand the real problem. Then we brainstorm ideas - as many as posiible. We prototype those ideas and test them by letting the people we've interviewed use them and give us their feedback. The whole process is iterative. If the feedback is negative we try to understand what has to be improved. If the problem is ill-defined we go back to steps 1 and 2. If the chosen solution doesn't quite solve the problem we brainstorm more ideas.
+
+This way we make sure that we fail quick and through the process of continuous iterations we improve our solution before we start investing money into the complex implementation.
 
 ### Step 1: Empatize
 
