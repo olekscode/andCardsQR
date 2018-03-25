@@ -87,8 +87,6 @@ Though everyone liked our solution, there were several concerns that helped us u
 
 During testing phase we have identified some problems with our solution. We had to go back to the step of ideation and discuss how to improve our prototype. To solve the security issue we decided to allow people who don't want to share their information to request a badge without QR by checking that option in a registration form. Also we propose to include an option of scanning a traditional business card into an app.
 
-![](img/iterate.jpg)
-
 ## Team
 
 <img src="img/oleksandr-photo.jpg" width="200" align="left">
