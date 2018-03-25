@@ -2,10 +2,15 @@
 
 We demonstrate the first prototype of our solution to the problem of ineffective networking during large and medium-sized conferences. You can watch the video to see how it works: https://youtu.be/GtwK_A4dS3s.
 
-<img src="img/apps.jpg" width=170 align="left">
+<img src="img/apps.jpg" width=170 align="right">
+
+The prototype was created during the Design Thinking course taught by Oleksandr Akymenko at Data Science Master program of Ukrainian Catholic University.
+
+## Business case
+
 <img src="img/logo.svg" width=200 align="right">
 
-The prototype was created during the Design Thinking course taught by Oleksandr Akymenko at Data Science Master program of Ukrainian Catholic University. Business case was provided by [andCards](https://andcards.com) - a company based in South Korea that provides software for coworking spaces.
+The business case for this course was provided by [andCards](https://andcards.com) - a company based in South Korea that provides software for coworking spaces.
 
 ## Design Thinking workflow
 
