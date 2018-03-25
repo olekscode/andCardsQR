@@ -10,7 +10,7 @@ The prototype was created during the Design Thinking course taught by Oleksandr 
 
 <img src="img/logo.svg" width=200 align="right">
 
-The business case for this course was provided by [andCards](https://andcards.com) - a company based in South Korea that provides software for coworking spaces.
+The business case for this course was provided by [Cards Corp.](https://en.wikipedia.org/wiki/Cards_Corp) - South Korean internet company established in 2017 that developed [andCards](https://andcards.com) - the unified communications software for coworkings and organizations. Among many Korean and international grants and awards, this company has won "People's Choice Startup" award at this year's Lviv IT Arena. It was selected for investment program by the Seoul Business Agency, and accelerated at Seoul Global Startup Center.
 
 ## Design Thinking workflow
 
