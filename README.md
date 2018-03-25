@@ -1,8 +1,8 @@
 # andCardsQR - First Prototype
 
-<img src="img/logo.svg" width=200 align="right">
-
 Here we demonstrate the first prototype of our solution to the problem of ineffective networking during large and medium-sized conferences. You can watch the video to see how it works: https://youtu.be/GtwK_A4dS3s.
+
+<img src="img/logo.svg" width=200 align="right">
 
 The prototype was created during the Design Thinking course at Ukrainian Catholic University. The business case was provided by [andCards](https://andcards.com) - a company based in South Korea that provides software for coworking spaces.
 
@@ -44,7 +44,6 @@ After having generated over 100 ideas we went on to structure and organize them.
 ![](img/ideate-order.jpg)
 
 ### Step 4: Prototype
-https://youtu.be/GtwK_A4dS3s
 
 ![](img/prototype-card.jpg)
 ![](img/prototype.jpg)
