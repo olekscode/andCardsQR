@@ -2,7 +2,7 @@
 
 <img src="img/logo.svg" width=200 align="right">
 
-This prototype was created during the Design Thinking course at the Ukrainian Catholic University.
+Here we demonstrate the first prototype of our solution to the problem of ineffective networking during large and medium-sized conferences. The prototype was created during the Design Thinking course at Ukrainian Catholic University. The business case was provided by [andCards](https://andcards.com) - a company based in South Korea that provides software for coworking spaces.
 
 ## Design Thinking workflow
 
