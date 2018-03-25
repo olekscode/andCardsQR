@@ -42,17 +42,15 @@ Once we had enough information to process it was time to mine it for useful insi
 
 ### Step 3: Ideate
 
-On this step we started brainstorming the ideas. It's truly impressive how many ideas can four people generate in 20 minutes.  Most ideas were just crazy and required things like teleportation, space travel, or artificial intelligence. But we were going for quantity, not quality, and building on top of these silly ideas we came up with really good ones. 
+On this step we started brainstorming the ideas. It's truly impressive how many ideas can four people generate in 20 minutes.  Most ideas were just crazy and required things like teleportation, space travel, or collective superintelligence. But we were going for quantity, not quality, and building on top of these silly ideas we came up with really good ones. 
 
 ![](img/ideate.jpg)
 
-After having generated over 100 ideas we went on to structure and organize them. We started by separating three clusters:
-
-* **IT solutions**: creating an app or a website
-* **Organizational solutions**: long coffee breaks, tour guides etc.
-* **"Magic"**: conference in open space, reading minds, becoming part of collective superintelligence etc.
+After having generated over 100 ideas we went on to structure and organize them. We separated them into several clusters, grouped together similar ideas, and classified them by their impact and feasability.
 
 ![](img/ideate-order.jpg)
+
+As a result, there was one idea that was both impactful and easy to implement. Since andDesign has an app that allows users to thare their business cards, **we decided to add QR codes to attendee conference badges that could be scanned by that app and allow people who have met each other on a conference share digital business cards with a single click of button.**
 
 ### Step 4: Prototype
 
