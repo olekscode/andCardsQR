@@ -4,7 +4,7 @@ We demonstrate the first prototype of our solution to the problem of ineffective
 
 <img src="img/apps.jpg" width=170 align="right">
 
-The prototype was created during the Design Thinking course taught by Oleksandr Akymenko at Data Science Master program of Ukrainian Catholic University.
+The prototype was created during the Design Thinking course taught by Oleksandr Akymenko at Data Science Master program of Ukrainian Catholic University. The course was mostly practical. We were divided into 6 groups of 4 people, and learned design thinking while working on an actual business case provided by a partner company.
 
 ## Business case
 
